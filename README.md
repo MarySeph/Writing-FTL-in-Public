@@ -1,6 +1,3 @@
-# Demo-v2.5
-Writing set-up following Vanessa Glauss' creative writing set-up. Next step will be merging this with the current Obsidian Vault :D.
+# Writing FTL In Public
 
-Available themes: Default, Things, and Minimal.
-
-Plugins: Dataview, Kanban, and Styles.
+This main branch contains both the MD files and the HTML files from the other two branches. Tiddlywiki is the branch where I autosave my work on TiddlyWiki and the gh-pages is the branch where I publish the mind garden from.
