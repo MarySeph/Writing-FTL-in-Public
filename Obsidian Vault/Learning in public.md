@@ -1,6 +1,7 @@
 ---
 alias: learn in public
 ---
+up:: [[index|Start Here]]
 
 This digital garden is my third try at producing unfinished content and publish to the web. 
 
@@ -20,6 +21,6 @@ Very much this page.
 
 # Developer Notes
 
-- Daily note [[2022-08-24]] summarizes my work on that day. 
+-   These daily notes summarize the work over these three days: [[2022-08-24]], [[2022-08-25]], [[2022-08-26]].
 - [[Self-hosting my Digital Garden with Github, and perhaps Tiddlywiki]] is a reflection on digital gardens. It has tons of links and references to other gardeners such as [Tom Critchlow](https://twitter.com/tomcritchlow), [Maggie Appleton](https://twitter.com/Mappletons), and [Anne-Laure Le Cunff](https://twitter.com/anthilemoon).
 - [[My First Digital Garden, a Web Development Project]] is an overview of this project with a project description and checkbox section. Feel free to tweak it to your digital gardening needs!

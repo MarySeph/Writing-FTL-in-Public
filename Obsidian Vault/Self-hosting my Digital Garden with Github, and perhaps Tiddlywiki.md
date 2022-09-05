@@ -1,4 +1,4 @@
-up::
+up:: [[index|Start Here]]
 tags:: #idea
 created: 2022-08-20 10:45
 # I would like to self-host my digital garden with Github and perhaps Tiddlywiki

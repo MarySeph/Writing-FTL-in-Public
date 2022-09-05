@@ -1,6 +1,7 @@
 ---
 alias: Landing Page
 ---
+up:: [[index|Start Here]]
 
 [[#Chapters]]
 
@@ -31,8 +32,8 @@ Talking about queerness, I have also explored the topic of labels. The character
 
 # Chapters
 
-[[40.00 Introduction_ Speaking English is Hard_Pretty Boys Make College Life A Blessing]]
+[[00 Introduction_ Speaking English is Hard_Pretty Boys Make College Life A Blessing]]
 
-[[40.01 Chapter 2_ College is Stressful when You Don't Know the Language_Bro, You Can't Run Away From Your Problems]]
+[[01 Chapter 2_ College is Stressful when You Don't Know the Language_Bro, You Can't Run Away From Your Problems]]
 
 [[Chapter 3]]

@@ -1,4 +1,4 @@
-up::
+up:: [[index|Start Here]]
 tags:: idea 
 status:: project/active 
 created:: 2022-08-23 18:04

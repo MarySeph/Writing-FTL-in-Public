@@ -1,3 +1,5 @@
+up:: [[index|Start Here]]
+
 <iframe border=0 frameborder=0 height=550 width=550 src="https://twitframe.com/show?url=https://twitter.com/SephMary/status/1561774596671430656?ref_src=twsrc%5Etfw"> </iframe>
 
 I love learning. After reading [this article](https://salman.io/blog/polymath-playbook/) from Salam, I realized I may indeed be a polymath.
@@ -41,4 +43,4 @@ I'm aware digital garden are, as of this time, a sole endeavor. As someone who c
 
 Seeing other people's inner weird little world is always fascinating. I think, if I feel that way about them, perhaps someone will find my weird little world fascinating too.
 
-Many thanks for reading. You can go to the story's [[For the Freedom to Love Landing Page|Landing Page]], or read the [brainstorm| [[FTL Brainstorm 2]]]. Lastly, here's my [Twitter](https://twitter.com/SephMary) open to any comments.
+Many thanks for reading. You can go to the story's [[For the Freedom to Love Landing Page|Landing Page]], or read the [brainstorm|[[FTL Brainstorm 2]]]. Lastly, here's my [Twitter](https://twitter.com/SephMary) open to any comments.
