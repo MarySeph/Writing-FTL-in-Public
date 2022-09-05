@@ -1,10 +1,10 @@
 ---
 tags: x/index
 ---
-up:: [[+ For the Freedom to Love Dashboard|FTL Dashboard]]
+up:: [[index|Start Here]]
 # + Longform Index
 List all notes in this folder except index itself and subfolder files
 ```dataview
-TABLE status, draft from "00 Stories/03 Longform" and -#x/index
+TABLE tags from "00 Stories/04 Metatext" and -#x/index
 SORT file.name ASC
 ```

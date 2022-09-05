@@ -149,4 +149,4 @@ Keima threw his head back and lifted the corner of his mouth. "Can't believe we'
 
 ---
 
-Next: [[40.01 Chapter 2_ College is Stressful when You Don't Know the Language_Bro, You Can't Run Away From Your Problems]]
+Next: [[01 Chapter 2_ College is Stressful when You Don't Know the Language_Bro, You Can't Run Away From Your Problems]]
